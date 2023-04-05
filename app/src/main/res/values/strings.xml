@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projekt8</string>
+    <string name="open_comment">Edit Comment</string>
+    <string name="test_comment">Test Comment</string>
+    <string name="update_desc">Update</string>
+    <string name="delete_desc">Delete</string>
+</resources>
